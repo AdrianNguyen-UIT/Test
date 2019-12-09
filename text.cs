@@ -6,6 +6,7 @@ namespace Test {
         private void Main () 
         {
             Console.WriteLine ("Hello, World");
+            Console.WriteLine("Greeting");
         }
     }
 }
